@@ -1,0 +1,7 @@
+.chache-tests
+.classpath
+.project
+testFiles/
+target/
+project/
+.cache-tests
