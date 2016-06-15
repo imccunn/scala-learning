@@ -5,3 +5,5 @@ testFiles/
 target/
 project/
 .cache-tests
+.idea/
+*.iml
